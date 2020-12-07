@@ -1,5 +1,6 @@
 
 # 【搬砖】图像修复实战
+[文章](https://zhuanlan.zhihu.com/p/333568925)
 
 ## context-encoder
 ### 环境准备
